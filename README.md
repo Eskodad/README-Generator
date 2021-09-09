@@ -62,7 +62,6 @@ The user will be prompted for their GitHub username and other information pertai
 - [Project Repo](https://github.com/Eskodad/README-Generator)
 
 ## GitHub
-
 ![Image of me](https://user-images.githubusercontent.com/77806148/132604779-b62807bf-4acd-453f-8af4-00162ff43b6c.png)
 
 - Sahr Koroma
