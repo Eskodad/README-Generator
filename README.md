@@ -13,13 +13,6 @@ When creating an open source project on GitHub, it is important to have a qualit
 ![Git]
 [Video Link](https://drive.google.com/file/d/1Ld8EFn6O5hoH2r4d637zpUUpLEfP9sja/view?usp=sharing)
 
-# README example
-
-![Photo1](photo1.png)
-![Photo2](photo2.png)
-![Photo3](photo3.png)
-![Photo4](photo4.png)
-
 # Table of contents
 
 - [Description](#Description)
@@ -59,11 +52,9 @@ The user will be prompted for their GitHub username and other information pertai
 
 ## Repository
 
-- [Project Repo](https://github.com/Eskodad/README-Generator)
+- [Project Repo](https://eskodad.github.io/README-Generator/)
 
 ## GitHub
-
-![Image of me](https://user-images.githubusercontent.com/77806148/132606125-85cd8624-54d3-40d3-afd4-fdeb00dd335b.png)
 
 
 - Sahr Koroma
