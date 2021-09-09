@@ -63,8 +63,7 @@ The user will be prompted for their GitHub username and other information pertai
 
 ## GitHub
 
-![Image of me](https://avatars1.githubusercontent.com/u/61527225?v=4)
+![Image of me]()
 
 - Sahr Koroma
 - [GitHub Profile](https://github.com/Eskodad)
-- <null>
