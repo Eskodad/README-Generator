@@ -62,7 +62,9 @@ The user will be prompted for their GitHub username and other information pertai
 - [Project Repo](https://github.com/Eskodad/README-Generator)
 
 ## GitHub
-![Image of me](https://user-images.githubusercontent.com/77806148/132604779-b62807bf-4acd-453f-8af4-00162ff43b6c.png)
+
+![phot4](https://user-images.githubusercontent.com/77806148/132606125-85cd8624-54d3-40d3-afd4-fdeb00dd335b.png)
+
 
 - Sahr Koroma
 - [GitHub Profile](https://github.com/Eskodad)
